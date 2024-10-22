@@ -13,3 +13,5 @@ La diferencia está en la capacidad de acción, no solo en el conocimiento.
 A las acciones de Razonar y Actuar de los agentes les denominaremos "ReAct"
 
 En este reopositorio se hará uso de un agente encargado de definir si es bueno invertir o no en una empresa, a través del uso de Gemini (LLM) y Google Finance (nuestro tool) para determinar esta decisión.
+
+Tener en cuenta que dentro del uso de los agentes podremos tener acceso a diversas tools, a continuación comparto la lista de herramientas disponibles en LangChain: https://python.langchain.com/v0.1/docs/integrations/tools/
