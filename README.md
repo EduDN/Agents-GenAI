@@ -1,4 +1,4 @@
-# Agents-GenAI
+# Agents-GenAI with LangChain
 
 A diferencia de los sistemas de LLMs tradicionales, que solo generan respuestas basadas en su entrenamiento y son más reactivos, o inclusive que pueden llegar a generar respuestas más genéricas, los Agentes son sistemas más autónomos que pueden:
 
